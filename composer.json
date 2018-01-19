@@ -1,0 +1,19 @@
+{
+    "name": "YoPHP/Yo",
+    "type": "yo-framework",
+    "description": "Yo Framework for PHP 7",
+    "keywords": ["yophp","yo"],
+    "homepage": "https://github.com/YoPHP/Yo",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "YoPHP",
+            "email": "admin@YoPHP.org",
+            "homepage": "http://YoPHP.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}

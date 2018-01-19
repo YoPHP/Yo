@@ -1,2 +1,2 @@
 # Yo
-PHP Framework
+Yo Framework for PHP 7
