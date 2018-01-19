@@ -1,9 +1,9 @@
 {
-    "name": "YoPHP/Yo",
+    "name": "yophp/yo",
     "type": "yo-framework",
     "description": "Yo Framework for PHP 7",
     "keywords": ["yophp","yo"],
-    "homepage": "https://github.com/YoPHP/Yo",
+    "homepage": "https://github.com/yophp/yo",
     "license": "Apache-2.0",
     "authors": [
         {
